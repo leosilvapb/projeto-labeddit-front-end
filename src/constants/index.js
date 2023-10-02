@@ -1,0 +1,1 @@
+export const BASE_URL = "https://labeddit-backend-faruqi-leonardo.onrender.com"
